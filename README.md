@@ -57,3 +57,27 @@ Tests can run headless for faster feedback in pipeline environments.
 
 1. Add parallel execution support to reduce test runtime.
 2. Integrate advanced reporting (Allure/Extent) with screenshots on failure for better debugging.
+
+************************************************************************************************************************
+
+## AI / Copilot Usage Disclosure
+
+AI coding assistants were used during the development of this automation framework with full understanding of the implemented logic.
+
+### AI Tools Used
+- ChatGPT
+
+### Areas Where AI Assistance Was Used
+- Initial framework structure suggestions (Page Object Model + BDD)
+- Sample Selenium + Cucumber code snippets
+- Guidance on wait strategies and best practices
+- README documentation wording
+
+### What Was Modified and Why
+- All generated code was reviewed, customized, and refactored to fit the project requirements
+- Locators were manually verified and adjusted for stability
+- Wait strategies were tuned based on actual application behavior
+- Assertions and validations were added manually for correctness
+- Code structure was adapted to support scalability and maintainability
+
+The final implementation reflects my own understanding, decisions, and ability to modify or extend the framework.
